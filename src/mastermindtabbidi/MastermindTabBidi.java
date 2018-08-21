@@ -7,7 +7,7 @@ package mastermindtabbidi;
 
 import java.util.Arrays;
 import java.util.Scanner;
-//hello
+
 /**
  *
  * @author Utilisateur
