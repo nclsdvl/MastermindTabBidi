@@ -85,9 +85,10 @@ public class MastermindTabBidi {
                         if (proposition[i].equals(solution[j])) {
 
                             MP++;
-                            for (int k = 0; k < solution.length; k++) {
+                            tab[i][j] = "0";
+                            /*for (int k = 0; k < solution.length; k++) {
                                 tab[i][k] = "0";
-                            }
+                            }*/
                         }
                     }
                 }
